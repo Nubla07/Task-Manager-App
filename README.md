@@ -32,6 +32,6 @@ This is a Task Manager App that includes the following features:
    git clone https://github.com/Nubla07/Task-Manager-App-with-Flutter.git
 
 ##
-<img width="3424" alt="Untitled" src="https://github.com/Nubla07/Task-Manager-App/assets/143005842/1c1ab950-510a-4de1-9dca-4dd33eb74516">
+<img width="3424" alt="Untitled (1)" src="https://github.com/Nubla07/Task-Manager-App/assets/143005842/8c98db3a-2ccc-4461-955b-30115d2dd596">
 
 
